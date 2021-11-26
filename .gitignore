@@ -1,0 +1,6 @@
+.cache/
+dist/
+node_modules/
+api.export.js
+.DS_Store
+*.log
